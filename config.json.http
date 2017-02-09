@@ -1,0 +1,17 @@
+{
+    "instance_name": "cmegroup",
+    "download_url" : [
+        "http://www.ibm.com/support/knowledgecenter/en/SVU13_7.2.1/com.ibm.ismsaas.doc/reference/AssetsImportCompleteSample.csv",
+        "http://www.ibm.com/support/knowledgecenter/en/SVU13_7.2.1/com.ibm.ismsaas.doc/reference/AssetsImportCompleteSample.csv"
+    ],
+    "username"     : "ftpdwnld",
+    "password"     : "ftpdwnld",
+    "timeout"      : 1,
+    "retain_con"   : 1,
+    "download_file" : [
+        "/tmp/exchange.download",
+        "/tmp/exchange.download2"        
+    ],
+    "poll_freq"    : 15,
+    "num_retries"  : 3
+}

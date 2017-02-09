@@ -1,0 +1,19 @@
+{
+    "instance_name": "cmegroup",
+    "download_url" : [
+        "sftp://167.204.41.33/cme/ftp/SBEFix/Production/StrTemplates/streamlinemktdata.xml",
+        "sftp://167.204.41.33/cme/ftp/SBEFix/Production/StrTemplates/streamlinemktdata.xml"
+    ],
+    "username"     : "ftpdwnld",
+    "password"     : "ZnRwZHdubGQ=",
+    "timeout"      : 3,
+    "retain_con"   : 1,
+    "download_file" : [
+        "/tmp/exchange.download",
+        "/tmp/exchange.download2"        
+    ],
+    "poll_freq"    : 5,
+    "num_retries"  : 3,
+    "archive_dir"  : "/root/exchangeFileDownload/archive",
+    "archive_days" : 5
+}

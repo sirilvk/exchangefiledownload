@@ -1,0 +1,17 @@
+{
+    "instance_name": "cmegroup",
+    "download_url" : [
+        "ftp://tctdev.int.thomsonreuters.com//home/ftpdwnld/npm-debug.log",
+        "ftp://tctdev.int.thomsonreuters.com//home/ftpdwnld/npm-debug.log"
+    ],
+    "username"     : "ftpdwnld",
+    "password"     : "ZnRwZHdubGQ=",
+    "timeout"      : 1,
+    "retain_con"   : 0,
+    "download_file" : [
+        "/tmp/exchange.download",
+        "/tmp/exchange.download2"        
+    ],
+    "poll_freq"    : 5,
+    "num_retries"  : 3
+}

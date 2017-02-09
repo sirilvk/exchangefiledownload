@@ -26,8 +26,8 @@ A sample config script is as given below:
         "sftp://167.204.41.33/cme/ftp/SBEFix/Production/StrTemplates/streamlinemktdata.xml",
         "sftp://167.204.41.33/cme/ftp/SBEFix/Production/StrTemplates/streamlinemktdata.xml"
     ],
-    "username"     : "fixuserprod",
-    "password"     : "Znh1MzhycHIwZA==",
+    "username"     : "ftpdwnld",
+    "password"     : "ZnRwZHdubGQ=",
     "timeout"      : 3,
     "retain_con"   : 1,
     "download_file" : [
